@@ -1,0 +1,101 @@
+employee_id,name,age,gender,city,department,job_title,salary,experience_years,hire_date,birth_date,email
+1001,Mostafa Mohamed,47,Female,Mansoura,Sales,Team Leader,7193.0,16,2022-04-14,1979-01-01,mostafa.mohamed@company.com
+1002,Ayman Adel,24,Male,Mansoura,HR,Business Analyst,13415.0,19,2019-03-22,2002-01-01,ayman.adel@company.com
+1003,Mina Khalil,40,Female,Cairo,Marketing,Support Engineer,18550.0,4,2022-07-02,1986-01-01,mina.khalil@company.com
+1004,Karim Mohamed,41,Female,Mansoura,HR,Data Analyst,19512.0,1,2018-07-29,1984-12-31,karim.mohamed@company.com
+1005,Hassan Hassan,53,Male,Ismailia,Marketing,Business Analyst,28833.0,5,2024-04-14,1972-12-31,hassan.hassan@company.com
+1006,  Ahmed Hassan  ,28,Male,Ismailia,Finance,Data Analyst,9158.0,20,2019-10-28,1998-01-01,mostafa.mohamed@company.com
+1007,Eslam Salem,54,Female,Mansoura,Marketing,Sales Representative,25309.0,1,2024-08-15,1972-01-01,eslam.salem@company.com
+1008,Karim Samir,39,Male,Unknown,Sales,Sales Representative,11970.0,12,2020-05-29,1987-01-01,karim.samir@company.com
+1009,Karim Nasser,22,Female,Mansoura,IT,Marketing Specialist,11938.0,10,2021-06-20,2004-01-01,karim.nasser@company.com
+1010,Omar Mohamed,32,Male,Ismailia,Marketing,HR Specialist,26168.0,10,2017-05-26,1994-01-01,omar.mohamed@company.com
+1011,Hassan Hassan,49,Female,Alexandria,Marketing,Team Leader,18772.0,15,2020-06-12,1976-12-31,hassan.hassan@company.com
+1012,Mohamed Salem,46,Female,Zagazig,IT,Software Engineer,17763.0,10,2025-06-09,1980-01-01,mohamed.salem@company.com
+1013,Ali Nasser,44,Female,Giza,Sales,Marketing Specialist,23017.0,18,2024-06-10,1982-01-01,ali.nasser@company.com
+1014,Tarek Omar,52,Female,Alexandria,HR,Accountant,15344.0,14,2018-08-05,1974-01-01,tarek.omar@company.com
+1015,Mahmoud Mostafa,51,Female,Mansoura,Marketing,Software Engineer,12266.0,15,2018-12-31,1975-01-01,mahmoud.mostafa@company.com
+1016,Ali Samir,28,Female,Tanta,IT,Unknown,13702.0,10,2022-06-02,1998-01-01,ali.samir@company.com
+1017,Ahmed Samir,37,Male,Cairo,Finance,Support Engineer,5384.0,15,2021-05-13,1988-12-31,ahmed.samir@company.com
+1018,Tarek Fathy,47,Male,Mansoura,IT,Accountant,5404.0,7,2019-09-30,1979-01-01,tarek.fathy@company.com
+1019,Tarek Farouk,23,Male,Tanta,Finance,Accountant,13175.0,3,2019-05-25,2003-01-01,tarek.farouk@company.com
+1020,Sayed Gamal,22,Female,Zagazig,Sales,Marketing Specialist,20158.0,7,2019-03-07,2004-01-01,Unknown
+1021,Amr Omar,33,Female,Mansoura,HR,HR Specialist,17763.0,3,2022-04-25,1992-12-31,amr.omar@company.com
+1022,Adam Ashraf,26,Female,Ismailia,IT,Marketing Specialist,23384.0,2,2022-01-07,2000-01-01,adam.ashraf@company.com
+1023,Mina Hamed,53,Female,Cairo,Support,Project Manager,14860.0,2,2024-05-14,1972-12-31,mina.hamed@company.com
+1024,Mina Mahmoud,30,Male,Tanta,Support,Business Analyst,10989.0,17,2022-11-30,1996-01-01,mina.mahmoud@company.com
+1025,Eslam Salem,40,Male,Unknown,Operations,Business Analyst,20106.0,18,2024-08-18,1986-01-01,eslam.salem@company.com
+1026,Tarek Omar,37,Female,Tanta,Marketing,HR Specialist,22844.0,18,2025-09-06,1988-12-31,tarek.omar@company.com
+1027,Ayman Farouk,24,Male,Zagazig,Sales,Project Manager,28574.0,20,2021-07-25,2002-01-01,ayman.farouk@company.com
+1028,Mohamed Samir,41,Male,Mansoura,IT,HR Specialist,28524.0,4,2019-06-19,1984-12-31,mohamed.samir@company.com
+1029,Youssef Said,45,Female,Zagazig,Support,Data Analyst,8636.0,17,2025-03-24,1980-12-31,youssef.said@company.com
+1030,Eslam Mahmoud,54,Male,Giza,Marketing,Business Analyst,15916.0,9,2022-11-10,1972-01-01,eslam.mahmoud@company.com
+1031,Mostafa Farouk,45,Female,Giza,Support,Accountant,9809.0,20,2018-03-06,1980-12-31,mostafa.farouk@company.com
+1032,Khaled Omar,32,Male,Mansoura,IT,Team Leader,25562.0,5,2017-01-28,1994-01-01,khaled.omar@company.com
+1033,Mostafa Gamal,29,Female,Ismailia,Finance,Support Engineer,18456.0,0,2023-01-25,1996-12-31,mostafa.gamal@company.com
+1034,mohamed ali,41,Female,Zagazig,IT,Project Manager,20444.0,4,2015-08-31,1984-12-31,sherif.ali@company.com
+1035,Omar Fathy,46,Female,Cairo,Operations,Software Engineer,28629.0,8,2022-02-03,1980-01-01,omar.fathy@company.com
+1036,Hany Farouk,46,Female,Tanta,IT,HR Specialist,27984.0,11,2017-11-29,1980-01-01,hany.farouk@company.com
+1037,Sherif Ibrahim,50,Male,Tanta,IT,Support Engineer,10997.0,13,2015-08-17,1976-01-01,sherif.ibrahim@company.com
+1038,Khaled Adel,39,Female,Mansoura,Operations,Software Engineer,7048.0,1,2022-02-08,1987-01-01,khaled.adel@company.com
+1039,Ali Adel,39,Female,Ismailia,Sales,Support Engineer,17338.0,16,2017-07-08,1987-01-01,ali.adel@company.com
+1040,Ayman Hamed,23,Female,Giza,IT,Team Leader,26164.0,13,2018-05-31,2003-01-01,ayman.hamed@company.com
+1041,Mina Said,37,Male,Giza,Operations,Software Engineer,22100.0,12,2015-01-06,1988-12-31,mina.said@company.com
+1042,Mostafa Omar,54,Female,Tanta,Marketing,Marketing Specialist,29323.0,8,2024-04-16,1972-01-01,mostafa.omar@company.com
+1043,Tarek Hassan,25,Male,Mansoura,Finance,Sales Representative,17763.0,14,2016-04-12,2000-12-31,tarek.hassan@company.com
+1044,Hassan Hassan,54,Female,Zagazig,Finance,Marketing Specialist,9544.0,14,2019-10-22,1972-01-01,hassan.hassan@company.com
+1045,Mina Hamed,35,Male,Giza,IT,Business Analyst,9976.0,10,2015-03-16,1991-01-01,mina.hamed@company.com
+1046,Mohamed Farouk,42,Male,Zagazig,Sales,Sales Representative,17775.0,15,2015-01-04,1984-01-01,mohamed.farouk@company.com
+1047,Hany Mostafa,41,Female,Ismailia,Sales,Marketing Specialist,15015.0,16,2020-02-14,1984-12-31,hany.mostafa@company.com
+1048,Sayed Mohamed,29,Male,Giza,Marketing,Sales Representative,8419.0,3,2016-10-07,1996-12-31,sayed.mohamed@company.com
+1049,Omar Omar,28,Female,Giza,IT,Sales Representative,19430.0,0,2015-04-28,1998-01-01,omar.omar@company.com
+1050,Sherif Ibrahim,24,Female,Alexandria,Finance,Accountant,12239.0,7,2023-01-07,2002-01-01,sherif.ibrahim@company.com
+1051,Hassan Khalil,38,Female,Giza,Sales,HR Specialist,19489.0,16,2019-06-18,1988-01-01,hassan.khalil@company.com
+1052,Omar Mostafa,54,Male,Cairo,IT,HR Specialist,21633.0,2,2021-12-26,1972-01-01,omar.mostafa@company.com
+1053,Ali Salem,33,Male,Mansoura,Support,Accountant,15357.0,19,2020-07-14,1992-12-31,ali.salem@company.com
+1054,Mahmoud Hassan,43,Female,Mansoura,Sales,Support Engineer,22154.0,14,2017-08-04,1983-01-01,mahmoud.hassan@company.com
+1055,Amr Gamal,43,Female,Zagazig,Operations,Data Analyst,9363.0,14,2022-03-06,1983-01-01,amr.gamal@company.com
+1056,Omar Fathy,51,Male,Ismailia,Support,Support Engineer,15176.0,13,2019-01-04,1975-01-01,omar.fathy@company.com
+1057,Sherif Adel,29,Female,Giza,Sales,Unknown,22461.0,13,2015-07-13,1996-12-31,sherif.adel@company.com
+1058,Tarek Samir,48,Female,Cairo,Finance,Software Engineer,13427.0,1,2017-04-26,1978-01-01,tarek.samir@company.com
+1059,Ali Mostafa,48,Female,Zagazig,HR,Sales Representative,13580.0,12,2022-07-25,1978-01-01,ali.mostafa@company.com
+1060,Amr Hamed,55,Male,Alexandria,Support,Marketing Specialist,29285.0,13,2018-11-16,1971-01-01,amr.hamed@company.com
+1061,Omar Ashraf,42,Male,Zagazig,Marketing,Marketing Specialist,9858.0,18,2023-06-25,1984-01-01,omar.ashraf@company.com
+1062,Hany Ashraf,51,Male,Zagazig,Marketing,HR Specialist,15040.0,6,2018-12-29,1975-01-01,hany.ashraf@company.com
+1063,Adam Hamed,54,Female,Giza,Finance,Project Manager,27928.0,2,2021-01-29,1972-01-01,adam.hamed@company.com
+1064,Mina Adel,49,Female,Unknown,Sales,Support Engineer,26103.0,14,2024-03-25,1976-12-31,mina.adel@company.com
+1065,Hassan Omar,54,Female,Zagazig,IT,Business Analyst,24198.0,13,2019-07-27,1972-01-01,hassan.omar@company.com
+1066,Hany Ali,26,Male,Cairo,Sales,Team Leader,24758.0,10,2021-07-01,2000-01-01,hany.ali@company.com
+1067,Hassan Mohamed,40,Female,Cairo,Finance,Marketing Specialist,20254.0,14,2018-12-04,1986-01-01,hassan.mohamed@company.com
+1068,OMAR SALEM,25,Female,Mansoura,Marketing,Team Leader,16470.0,12,2018-02-15,2000-12-31,adam.ashraf@company.com
+1069,Ibrahim Salem,38,Female,Alexandria,Sales,Sales Representative,6252.0,17,2022-11-23,1988-01-01,ibrahim.salem@company.com
+1070,Sherif Ashraf,49,Female,Alexandria,Marketing,Team Leader,11996.0,5,2019-12-16,1976-12-31,sherif.ashraf@company.com
+1071,Mina Ashraf,51,Male,Mansoura,Support,Business Analyst,17173.0,2,2016-12-24,1975-01-01,mina.ashraf@company.com
+1072,Ibrahim Ashraf,50,Male,Zagazig,IT,Accountant,9673.0,18,2015-08-13,1976-01-01,Unknown
+1073,Khaled Ali,27,Female,Alexandria,Support,Business Analyst,25914.0,14,2016-06-15,1999-01-01,khaled.ali@company.com
+1074,Mina Ali,45,Male,Cairo,Marketing,Team Leader,20781.0,4,2015-04-23,1980-12-31,mina.ali@company.com
+1075,Ibrahim Salem,50,Male,Cairo,Marketing,Business Analyst,18051.0,9,2020-12-27,1976-01-01,ibrahim.salem@company.com
+1076,Ahmed Hassan,52,Female,Giza,HR,Data Analyst,11881.0,6,2016-07-12,1974-01-01,ahmed.hassan@company.com
+1077,Mostafa Hassan,54,Female,Alexandria,HR,Sales Representative,11949.0,16,2020-08-10,1972-01-01,mostafa.hassan@company.com
+1078,Khaled Gamal,42,Male,Zagazig,Support,Support Engineer,14521.0,6,2020-11-07,1984-01-01,khaled.gamal@company.com
+1079,Ahmed Ali,53,Female,Mansoura,Operations,Accountant,17763.0,11,2016-10-15,1972-12-31,ahmed.ali@company.com
+1080,Tarek Adel,44,Male,Mansoura,Support,Marketing Specialist,13017.0,16,2015-11-16,1982-01-01,tarek.adel@company.com
+1081,Hassan Ibrahim,54,Female,Zagazig,HR,Software Engineer,11941.0,12,2019-04-23,1972-01-01,hassan.ibrahim@company.com
+1082,Karim Mahmoud,24,Male,Ismailia,Marketing,Support Engineer,28386.0,19,2020-01-03,2002-01-01,karim.mahmoud@company.com
+1083,Eslam Said,39,Female,Tanta,Finance,Software Engineer,15209.0,3,2020-04-01,1987-01-01,eslam.said@company.com
+1084,Sayed Ashraf,46,Male,Giza,Support,Sales Representative,22715.0,9,2015-05-19,1980-01-01,sayed.ashraf@company.com
+1085,Hassan Ibrahim,52,Male,Mansoura,Marketing,Accountant,25645.0,2,2024-10-22,1974-01-01,hassan.ibrahim@company.com
+1086,Mohamed Salem,24,Male,Alexandria,Finance,HR Specialist,29032.0,8,2025-10-14,2002-01-01,mohamed.salem@company.com
+1087,Mohamed Hamed,45,Female,Giza,Finance,Marketing Specialist,14550.0,12,2022-12-02,1980-12-31,mohamed.hamed@company.com
+1088,Ahmed Ali,53,Male,Alexandria,HR,Data Analyst,26499.0,17,2020-07-19,1972-12-31,ahmed.ali@company.com
+1089,Youssef Ibrahim,43,Male,Ismailia,Support,HR Specialist,9637.0,14,2021-04-25,1983-01-01,youssef.ibrahim@company.com
+1090,Amr Said,44,Female,Cairo,Sales,Sales Representative,9854.0,3,2025-04-02,1982-01-01,amr.said@company.com
+1091,Mostafa Youssef,23,Female,Giza,IT,Support Engineer,24561.0,14,2017-06-20,2003-01-01,mostafa.youssef@company.com
+1092,Khaled Youssef,48,Male,Mansoura,HR,Data Analyst,29114.0,1,2016-11-20,1978-01-01,khaled.youssef@company.com
+1093,Mostafa Hassan,23,Male,Giza,HR,Business Analyst,15320.0,14,2020-08-01,2003-01-01,mostafa.hassan@company.com
+1094,Khaled Mostafa,47,Female,Giza,Sales,Team Leader,23564.0,7,2015-01-10,1979-01-01,khaled.mostafa@company.com
+1095,Hassan Ibrahim,38,Female,Giza,IT,Data Analyst,9892.0,7,2015-09-18,1988-01-01,hassan.ibrahim@company.com
+1096,Tarek Youssef,54,Female,Tanta,Marketing,Sales Representative,12043.0,16,2020-04-26,1972-01-01,tarek.youssef@company.com
+1097,Ali Mohamed,30,Female,Giza,Operations,Project Manager,21521.0,11,2019-08-01,1996-01-01,ali.mohamed@company.com
+1098,Ahmed Hamed,50,Female,Alexandria,Support,Team Leader,27711.0,18,2021-01-28,1976-01-01,ahmed.hamed@company.com
+1099,Adam Mahmoud,47,Male,Cairo,Operations,Software Engineer,24856.0,9,2023-01-24,1979-01-01,adam.mahmoud@company.com
+1100,Youssef Gamal,46,Female,Ismailia,Marketing,Marketing Specialist,26833.0,8,2020-08-22,1980-01-01,youssef.gamal@company.com
